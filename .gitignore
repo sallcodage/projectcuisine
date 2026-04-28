@@ -1,1 +1,6 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
 
+# Dossier secrets
+secrets/
