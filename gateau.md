@@ -1,4 +1,4 @@
-# Recette de gâteau
+# Recette de gateau au chocolat
 
 - Farine
 - Sucre
